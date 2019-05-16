@@ -1,2 +1,6 @@
 My homework
+<<<<<<< HEAD
 "fixing stuff"
+=======
+"fixing stuff"
+
